@@ -1,7 +1,7 @@
 ---
 title: Current Status
 layout: default
-nav_order: 10
+nav_order: 2
 ---
 
 # Current Status
