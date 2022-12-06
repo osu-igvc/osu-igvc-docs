@@ -6,7 +6,23 @@ nav_order: 10
 
 # Current Status
 
-Speak here aobut current status.
+## DBW functionality:
+- Joystick control
+- Throttle and steering 
+- Blinkers
+- Buzzer
+- Safety enable
+- E-stop functionality
+
+## SLAM mapping:
+- State transform: 
+- VectorNav data:
+
+## Blob detection algorithm:
+
+## Lane detection algoirthm:
+
+## GUI:
 
 
 # Next Steps
