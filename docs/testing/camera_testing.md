@@ -1,5 +1,5 @@
 ---
-title: Camera Testing
+title: Sensor Testing
 parent: Project Testing
 layout: default
 ---
