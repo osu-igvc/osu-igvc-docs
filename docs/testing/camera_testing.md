@@ -1,6 +1,7 @@
 ---
 title: Sensor Testing
 parent: Project Testing
+has_children: true
 layout: default
 ---
 
@@ -20,6 +21,7 @@ The test is completed to test video reception.
   a. For blackfly cameras use SpinView/Spinnaker
   b. For Realsense camera use Intel software provided (Link for repo to be added)
 3. Start streaming video 
+  a. If stream is not working change software settings, check connections, and repeat test.
 
 ## UNIT: Video Clarity
 
@@ -36,5 +38,10 @@ The test is completed to test video reception.
   a. If quality is not sufficent change settings and repeat
   
   
-  
+ 
+ 
+
+
+
+
 
