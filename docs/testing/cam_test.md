@@ -2,7 +2,7 @@
 title: Camera Testing
 layout: default
 parent: Sensor Testing
-grandparent: Project Testing
+grand_parent: Project Testing
 nav_order: 1
 ---
 
