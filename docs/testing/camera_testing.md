@@ -1,7 +1,6 @@
 ---
 title: Sensor Testing
 parent: Project Testing
-has_children: true
 layout: default
 ---
 
