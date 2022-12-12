@@ -1,5 +1,5 @@
 ---
-title: LIDAR: Hokuyo UTM-30LX
+title: LIDAR Hokuyo UTM-30LX
 layout: default
 parent: Sensors
 ---
