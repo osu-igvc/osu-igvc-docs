@@ -1,9 +1,8 @@
 ---
-title: LIDAR: Hokuyo UST-10LX
+title: LIDAR Hokuyo UST-10LX
 layout: default
 parent: Sensors
 ---
-
 
 # LIDAR: LIDAR: Hokuyo UST-10LX
 ## Setup
