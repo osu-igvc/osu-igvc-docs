@@ -8,11 +8,11 @@ layout: default
 
 ## Camera Testing
 
-###   Blackfly camera
-        - Will be used to feed live video back to algorithms and mapping software.
+###  Blackfly camera
+  - Will be used to feed live video back to algorithms and mapping software.
  
-###   Realsense camera
-        - Backup camera; if needed can be used for extra footage behind vehicle for parking test.
+###  Realsense camera
+  - Backup camera; if needed can be used for extra footage behind vehicle for parking test.
 
 
 ## Lidar Testing 
@@ -27,13 +27,13 @@ layout: default
   - Software testing will include testing any software included with the hardware or used for hardware functionality. This does not include the algorithms made for     perception and mapping. 
 
 ## Algorithm Testing
-    - Testing will include Unit and Stress tests for each algorithm and will be updated as needed.
+  - Testing will include Unit and Stress tests for each algorithm and will be updated as needed.
 
-###   Blob detection
-      - Unit and Stress tests to make sure algorithm can detect blobs under a varity of environmental conditions.
+### Blob detection
+  - Unit and Stress tests to make sure algorithm can detect blobs under a varity of environmental conditions.
 
-###   Lane Detection
-      - Unit and Stress tests to ensure algorithm can detect lanes in any footage given. 
+### Lane Detection
+  - Unit and Stress tests to ensure algorithm can detect lanes in any footage given. 
 
 
 
