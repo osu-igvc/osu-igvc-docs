@@ -9,11 +9,11 @@ nav_order: 8
 
 The testing plans for hardware and software are organized accordingly:
 
-# Computer Vision Testing: 
+## Computer Vision Testing: 
   Testing plans for the Visualisation software (part of mapping).
 
-# Navigation Testing:
+## Navigation Testing:
   Testing plans for navigation including Lane detection algorithm, blob detection aglorithm, and SLAM mapping.
   
-# Sensor Testing: 
+## Sensor Testing: 
   Testing plans for hardware inlcuding Cameras, Lidars, and GPS system.
