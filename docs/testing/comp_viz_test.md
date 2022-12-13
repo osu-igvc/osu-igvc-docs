@@ -2,10 +2,10 @@
 title: Computer Vision Testing
 layout: default
 parent: Project Testing
+nav_order: 3
 ---
 
 # Computer Vision Testing
-## - Add brief summary here
 
 ## Lane Detection Testing
 
