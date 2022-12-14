@@ -7,44 +7,56 @@ nav_order: 8
 
 # Testing overview
 
-## Functionality tests
-- In the IGVC competition 19 functionality tests were given to participants. These are required to pass before participating in the competition. 
+## Tests
+- In the IGVC competition 19 tests were given to participants. These are required to pass before participating in the competition. 
 - For now our main focus will be tests: __(enter tests here)__
 
-### Functionality Test 1:
+### Qualification tests
 
-### Functionality Test 2:
+#### Q.1: Manual E-Stop
 
-### Functionality Test 3:
+#### Q.2: Wireless E-Stop
 
-### Functionality Test 4:
+#### Q.3: Lane Keeping (Go Straight)
 
-### Functionality Test 5:
+#### Q.4: Left Turn
 
-### Functionality Test 6:
+#### Q.5: Right Turn
 
-### Functionality Test 7:
+### Traditional Machine Vision Tests
 
-### Functionality Test 8:
+#### FI.1: White Lines Detection
 
-### Functionality Test 9:
+#### FI.2: Static Pedestrian Detection
 
-### Functionality Test 10:
+#### FI.3: Tire Detection
 
-### Functionality Test 11:
+#### FII.1: Stop Sign Detection
 
-### Functionality Test 12:
+#### FIII.1: Lane Keeping (Intersection)
 
-### Functionality Test 13:
+#### FIII.2: Left Turn (Intersection)
 
-### Functionality Test 14:
+#### FIII.2: Right Turn (Intersection)
 
-### Functionality Test 15:
+#### FIV.1: Parking Pull Out
 
-### Functionality Test 16:
+#### FIV.2: Parking Pull In
 
-### Functionality Test 17:
+#### FIV.3: Parallel
 
-### Functionality Test 18:
+#### FV.1: Unobstructed Static Pedestrian Detection
 
-### Functionality Test 19:
+#### FV.2: Obstructed Dynamic Pedestrian Detection
+
+#### FV.3: Static Pedestrian Detection, Lane Changing
+
+#### FV.4: Obstacle Detection, Lane Changing
+
+#### FVI.1: Curved Road, Lane Keeping
+
+#### FVI.2: Curved Road, Lane Changing
+
+#### FVII.1: Pothole Detection
+
+#### FVII.2: Merging
